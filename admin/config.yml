@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: alemarcha/test-repo-gatsby
-  site_domain: zealous-swanson-b611d2.netlify.com
+  site_domain: zealous-swanson-b611d2.netlify.com/test-repo-gatsby
 
 media_folder: static/assets
 public_folder: assets
